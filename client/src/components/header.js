@@ -8,11 +8,14 @@ export default function Header() {
           <div className='logo'>Infinity.</div>
             <nav>
               <ul>
-                <li className='solarscope'>
+                {/* <li className='solarscope'>
                   <a href='/solarscope'>Explore Solar System</a>
+                </li> */}
+                <li className='APOD'>
+                  <a href='/APOD'>Explore Solar System</a>
                 </li>
-                <li className='EONET'>
-                  <a href='/EONET'>EONET</a>
+                <li className='Global Forest Watch'>
+                  <a href='/Globalforestwatch'>EONET</a>
                 </li>
                 <li className="message">
                   <a href='/message'>Send message</a>
