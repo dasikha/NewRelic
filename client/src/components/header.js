@@ -11,8 +11,8 @@ export default function Header() {
                 <li className='solarscope'>
                   <a href='/solarscope'>Explore Solar System</a>
                 </li>
-                <li className='apod'>
-                  <a href='/apod'>Your astronomical birthday</a>
+                <li className='EONET'>
+                  <a href='/EONET'>EONET</a>
                 </li>
                 <li className="message">
                   <a href='/message'>Send message</a>

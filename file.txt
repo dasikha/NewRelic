@@ -1,0 +1,2 @@
+DB_NAME=infinity
+DB_PASS=neerademarcus243003

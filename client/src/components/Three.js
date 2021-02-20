@@ -182,7 +182,7 @@ export default class ThreeHome extends Component {
                 <a href="/solarscope" className="top-left" children="Explore Solar System" />
                 <a href='/Quiz' className="top-right" children="Astronomical Quiz" />
                 <a href="/message" className="bottom-right" children="Message Aliens" />
-                <a href="/apod" className="bottom-left" children="Astronomical Birthday" />
+                <a href="/Globalforestwatch" className="bottom-left" children="Globalforestwatch" />
               </header>
               </div>
           </div>
