@@ -14,7 +14,7 @@ import QuizForm from '../components/quizForm';
 			],
 		}, 
 		{
-			questionText: 'At the current rate of deforestration, we can loose our rainforest completely in ___years.Fill in the blank wtih the right answer.Hint:Watch video for answers',
+			questionText: 'At the current rate of deforestration, we can loose our rainforest completely in ___years.Fill in the blank with the right answer.Hint:Watch video for answers',
 			answerOptions: [
 				{ answerText: '1000 years', isCorrect: false },
 				{ answerText: '100 years', isCorrect: true },
@@ -23,7 +23,7 @@ import QuizForm from '../components/quizForm';
 			],
 		},
 		{
-			questionText: 'Forestry and Agriculture is responsible for ____ of greenhouse gas emmission. Fill in the blank wtih the right answer.Hint:Watch video for answers',
+			questionText: 'Forestry and Agriculture are responsible for ____ of greenhouse gas emmission. Fill in the blank with the right answer.Hint:Watch video for answers',
 			answerOptions: [
 				{ answerText: '5%', isCorrect: false },
 				{ answerText: '24%', isCorrect: true },
@@ -32,7 +32,7 @@ import QuizForm from '../components/quizForm';
 			],
 		},
 		{
-			questionText: 'When trees are felled they release___ into the atmosphere?Fill in the blank wtih the right answer.Hint:Watch video for answers',
+			questionText: 'When trees are felled they release___ into the atmosphere?Fill in the blank with the right answer.Hint:Watch video for answers',
 			answerOptions: [
 				{ answerText: 'Smoke', isCorrect: false },
 				{ answerText: 'Water', isCorrect: false },
@@ -42,7 +42,7 @@ import QuizForm from '../components/quizForm';
 		},
 
 		{
-			questionText: 'Why is increased carbon in the atmosphere bad for earth?Hint:Watch video for answers',
+			questionText: 'Why is the increased carbon in the atmosphere bad for earth?Hint:Watch video for answers',
 			answerOptions: [
 				{ answerText: 'Air becomes too hazy', isCorrect: false },
 				{ answerText: 'Increases the speed of global warming', isCorrect: true },
@@ -52,7 +52,7 @@ import QuizForm from '../components/quizForm';
 		},
 
 		{
-			questionText: 'Forests provide habitat to ___ of animals and plants on the planet. Fill in the blank wtih the right answer.Hint:Watch video for answers',
+			questionText: 'Forests provide habitat to ___ of animals and plants on the planet. Fill in the blank with the right answer.Hint:Watch video for answers',
 			answerOptions: [
 				{ answerText: '50%', isCorrect: false },
 				{ answerText: '30%', isCorrect: false },
@@ -62,17 +62,17 @@ import QuizForm from '../components/quizForm';
 		},
 
 		{
-			questionText: 'Deforestration impacts biodiversity. The estimate is___ orest species goes extinct each year?Fill in the blank wtih the right answer.Hint:Watch video for answers',
+			questionText: 'Deforestration impacts biodiversity. The estimate is___ rainforest species goes extinct each year?Fill in the blank with the right answer.Hint:Watch video for answers',
 			answerOptions: [
-				{ answerText: '1 to 3', isCorrect: false },
-				{ answerText: '4 to 6', isCorrect: true },
+				{ answerText: '1 thousand to 3 thousand', isCorrect: false },
+				{ answerText: '4 thousand to 6 thousand', isCorrect: true },
 				{ answerText: 'none', isCorrect: false },
-				{ answerText: '2 to 4', isCorrect: true },
+				{ answerText: '2 thousand to 4 thousand', isCorrect: true },
 			],
 		},
 
 		{
-			questionText: 'Some ___ billion people rely on rainforest for food and shelter. Fill in the blank wtih the right answer.Hint:Watch video for answers',
+			questionText: 'Some ___ billion people rely on rainforest for food and shelter. Fill in the blank with the right answer.Hint:Watch video for answers',
 			answerOptions: [
 				{ answerText: '1', isCorrect: false },
 				{ answerText: '4', isCorrect: false },
@@ -82,7 +82,7 @@ import QuizForm from '../components/quizForm';
 		},
 
 		{
-			questionText: 'Which is the biggest driver of deforestration? Fill in the blank wtih the right answer.Hint:Watch video for answers',
+			questionText: 'Which is the biggest driver of deforestration? Fill in the blank with the right answer.Hint:Watch video for answers',
 			answerOptions: [
 				{ answerText: 'Agriculture', isCorrect: true },
 				{ answerText: 'Housing development', isCorrect: false },
